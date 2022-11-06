@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artwork</title>
+</head>
+
+<body>
+    <h1>Artwork</h1>
+    <ul>
+        <li>Black marsh transportation guide: A hand drawn map of the various underground expressways formed by the
+            roots
+            of the hist tree and the common routes for traders</li>
+        <li>Sanguine Devotional Card: An illustrated card depicting the Daedric Prince Sanguine offering the bearer a
+            bottle</li>
+    </ul>
+</body>
+
+</html>
